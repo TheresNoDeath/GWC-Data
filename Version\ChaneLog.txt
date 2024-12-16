@@ -1,5 +1,5 @@
-1.0.1 Beta/
-ChangeLogs:
+1.0.1/
+Change logs:
 Version 1.0.1-
  Fix bug with fonts
  Fix bug with Game jolt API
