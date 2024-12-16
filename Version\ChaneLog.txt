@@ -1,16 +1,6 @@
 1.0.1/
 (click here to see changelog)
 Changelogs:
-s
-ss
-sasdasd
-s
-s
-s
-ssadasd
-s
-s
-ssadasd
 (Video fix) Version 1.0.2-
  All video will fixed by settings of application(i dunno why?, but it worked corectly)
  Added links to creators in Extras
