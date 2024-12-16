@@ -1,6 +1,19 @@
 1.0.1/
 (click here to see changelog)
 Changelogs:
+s
+s
+s
+s
+
+s
+s
+s
+s
+s
+
+s
+
 (Video fix) Version 1.0.2-
  All video will fixed by settings of application(i dunno why?, but it worked corectly)
  Added links to creators in Extras
